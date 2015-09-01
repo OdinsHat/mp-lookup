@@ -1,7 +1,8 @@
-# Mp-lookup
+# MP Lookup
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This i my first EmberJS app that will use connection to the They Work For You API and Firebase to provide a single page app experience for whchever MP you're looking up.
+
+The current live and working demo is available at:  
 
 ## Prerequisites
 
@@ -41,7 +42,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+
 
 ## Further Reading / Useful Links
 
